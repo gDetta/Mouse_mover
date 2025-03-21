@@ -11,7 +11,7 @@ The script includes a GUI to easily start and stop the movement, and is able to 
 * Moves the mouse slightly to prevent screen lock
 * Stops automatically if manual mouse movement is detected
 * GUI with start/stop button that changes color (green = ON, red = OFF)
-* Notification popup when the movement stops duo to manual mouse movement
+* Notification popup when the movement stops due to manual mouse movement
 
 ---
 
