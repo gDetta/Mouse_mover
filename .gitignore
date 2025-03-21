@@ -1,0 +1,27 @@
+# File Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambienti virtuali
+venv/
+.env
+
+# Build
+build/
+dist/
+*.spec
+
+# File di log
+*.log
+
+# Configurazioni di sistema
+.DS_Store
+Thumbs.db
+
+# File di backup/editor
+*.swp
+*.swo
+*~
+
